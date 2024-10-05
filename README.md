@@ -70,13 +70,13 @@ Source Directory/
 ## Screenshots 📸
 
 ### Before Organization
-[Add your screenshot here showing messy directory]
+![Alt Text](Images/Before.png)
 
 ### After Organization
-[Add your screenshot here showing organized directory]
+![Alt Text](Images/After.png)
 
 ### Script in Action
-[Add your screenshot here showing the script running]
+![Alt Text](Images/In Action.png)
 
 ## Customization 🛠️
 
