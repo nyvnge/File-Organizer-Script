@@ -76,7 +76,7 @@ Source Directory/
 ![Alt Text](Images/After.png)
 
 ### Script in Action
-![Alt Text](Images/In Action.png)
+![Alt Text](Images/InAction.png)
 
 ## Customization 🛠️
 
